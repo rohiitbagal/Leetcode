@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rohiitbagal/Leetcode/tree/master/0136-single-number) |
+| [0283-move-zeroes](https://github.com/rohiitbagal/Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/rohiitbagal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/rohiitbagal/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
