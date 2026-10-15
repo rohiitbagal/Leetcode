@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rohiitbagal/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rohiitbagal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohiitbagal/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rohiitbagal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/rohiitbagal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/rohiitbagal/Leetcode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rohiitbagal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rohiitbagal/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rohiitbagal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
