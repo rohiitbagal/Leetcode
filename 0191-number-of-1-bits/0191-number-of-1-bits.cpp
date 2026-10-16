@@ -5,17 +5,17 @@ public:
         int setCount=0;
         while(n>0){
            int remainder=n%2;
-          if(remainder==1){
-            setCount++;
-          }
+           char c=remainder+'0';
+           cout<<c<<endl;
+           numberBit+=c;
            n=n/2;
         }
-      
-        // for(int i=0;i<=numberBit.size();i++){
-        //     if(numberBit[i]=='1'){
-        //         setCount++;
-        //     }
-        // }
+        cout<<numberBit;
+        for(int i=0;i<=numberBit.size();i++){
+            if(numberBit[i]=='1'){
+                setCount++;
+            }
+        }
         return setCount;
     }
 };
