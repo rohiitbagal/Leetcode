@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rohiitbagal/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/rohiitbagal/Leetcode/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/rohiitbagal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## String
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rohiitbagal/Leetcode/tree/master/0231-power-of-two) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rohiitbagal/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/rohiitbagal/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
