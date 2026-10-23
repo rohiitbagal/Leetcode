@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rohiitbagal/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rohiitbagal/Leetcode/tree/master/0344-reverse-string) |
 | [1903-largest-odd-number-in-string](https://github.com/rohiitbagal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/rohiitbagal/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Greedy
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/rohiitbagal/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/rohiitbagal/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rohiitbagal/Leetcode/tree/master/0070-climbing-stairs) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/rohiitbagal/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
