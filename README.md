@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/rohiitbagal/Leetcode/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rohiitbagal/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rohiitbagal/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rohiitbagal/Leetcode/tree/master/0169-majority-element) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/rohiitbagal/Leetcode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rohiitbagal/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
