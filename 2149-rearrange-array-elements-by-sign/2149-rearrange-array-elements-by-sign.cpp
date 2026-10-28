@@ -29,21 +29,73 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int> result(nums.size());
+       vector<int>pos;
+       vector<int>neg;
+       vector<int>arr(nums.size());
 
-        int p = 0;
-        int n = 1;
-
-        for (int num : nums) {
-            if (num > 0) {
-                result[p] = num;
-                p += 2;
-            } else {
-                result[n] = num;
-                n += 2;
-            }
+       for(int i=0;i<nums.size();i++){
+        if(nums[i]>0){
+            pos.push_back(nums[i]);
+            cout<<nums[i];
+        }else{
+            neg.push_back(nums[i]);
         }
+       }
+    
+       int postive=0;
+       int negitive=0;
+       for(int i=0;i<nums.size();i++){
+             if (i % 2 == 0) {
+                arr[i] = pos[postive];
+                postive++;
+            } else {
+                arr[i] = neg[negitive];
+                negitive++;
+            }
+       }
+       return arr;
 
-        return result;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // vector<int> result(nums.size());
+
+        // int p = 0;
+        // int n = 1;
+
+        // for (int num : nums) {
+        //     if (num > 0) {
+        //         result[p] = num;
+        //         p += 2;
+        //     } else {
+        //         result[n] = num;
+        //         n += 2;
+        //     }
+        // }
+
+        // return result;
     }
 };
