@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohiitbagal/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rohiitbagal/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohiitbagal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rohiitbagal/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rohiitbagal/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rohiitbagal/Leetcode/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rohiitbagal/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rohiitbagal/Leetcode/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rohiitbagal/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
