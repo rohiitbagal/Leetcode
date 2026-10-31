@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/rohiitbagal/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/rohiitbagal/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/rohiitbagal/Leetcode/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/rohiitbagal/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rohiitbagal/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/rohiitbagal/Leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rohiitbagal/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/rohiitbagal/Leetcode/tree/master/0455-assign-cookies) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/rohiitbagal/Leetcode/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
